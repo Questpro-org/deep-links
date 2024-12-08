@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.questpro",
+    "sha256_cert_fingerprints":
+    ["20:68:38:5B:2A:B4:EA:A5:57:70:00:C5:64:49:5F:B7:50:61:3C:BE:4A:A5:00:41:D3:D5:08:91:D7:C0:F0:D6"]
+  }
+}]
